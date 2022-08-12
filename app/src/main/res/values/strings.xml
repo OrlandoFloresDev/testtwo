@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Italika</string>
+    <string name="internet_connection_back">You are online now.</string>
+    <string name="internet_connection_lost">You are offline. Please connect to internet.</string>
+    <string name="text_loading">Loading</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="perfil">Perfil</string>
+    <string name="movies">Movies</string>
+    <string name="locaciones">Locaciones</string>
+    <string name="galeria">Galeria</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="start_capture">Start Capture</string>
+    <string name="stop_capture">Stop Capture</string>
+    <string name="Send">SUBIR FOTO</string>
+    <string name="title_upload">Envio Exitoso</string>
+    <string name="title_Description">%1d fotos enviadas a firebase</string>
+    <string name="obtener_locaciones">Obtener Locaciones</string>
+</resources>
